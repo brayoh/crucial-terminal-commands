@@ -1,7 +1,7 @@
 # crucial-terminal-commands
 Crucial terminal commands
  
- ### Unfreeze mouse
+### Unfreeze mouse
   ``` bash
   	 sudo rmmod psmouse && sudo modprobe psmouse
   ```
